@@ -1,8 +1,10 @@
 /node_modules
-/android/zebra-capacitor/.gradle
-/android/zebra-capacitor/.idea
-/android/zebra-capacitor/build
-/android/zebra-capacitor/gradle
+/android/zebra-capacitor-jbay/.gradle
+/android/zebra-capacitor-jbay/.idea
+/android/zebra-capacitor-jbay/build
+/android/zebra-capacitor-jbay/gradle
+/android/.idea
+.idea
 /dist
 package-lock.json
 ios/Plugin/Plugin.xcworkspace/xcuserdata
